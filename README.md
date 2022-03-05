@@ -1,6 +1,7 @@
-# This is Visualizer for normal sorting algorithms built using HTML, CSS, JS and Bootstrap
+# This is Visualizer for sorting algorithms built using HTML, CSS, JS and Bootstrap
+We can click on new array button to generate a random array and select the desired size of the array and the speed of sorting from the sliders on the top right.
+Then by clicking on the desired sorting algorithm, the sorting process starts.
 
-### This is Visualizer for normal sorting algorithms built using HTML, CSS, JS and Bootstrap
 ### The following sorts are visualized:
 - Bubble Sort 
 - Selection Sort
